@@ -1,0 +1,5 @@
+{
+  "name": "Salesforce-like CRM MVP",
+  "description": "A CRM system MVP with Contacts, Accounts, Deals pipeline, Activities, and Dashboard.",
+  "requestFramePermissions": []
+}
